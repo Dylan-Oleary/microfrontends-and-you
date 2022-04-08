@@ -1,0 +1,8 @@
+{
+  "name": "microfrontends-and-you",
+  "version": "0.0.0",
+  "description": "An example of setting up microfrontends using Vercel multi-zones",
+  "keywords": ["microfrontend", "nextjs", "svelte"],
+  "author": "Keith Brewster <keith.brewster22@gmail.com> (https://switchcasebreak.com/)",
+  "license": "ISC"
+}
